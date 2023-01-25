@@ -1,31 +1,26 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: gfxpronet
+repo: upptime
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: GFX | Productions™
+    url: https://gfx-pro.net
+    icon: https://api.gfx-pro.net/gpn.ico
+  - name: GFX | Productions™ API
+    url: https://api.gfx-pro.net
+    icon: 
+  - name: GFX | Productions™ Legal
+    url: https://legal.gfx-pro.net
+    icon: https://api.gfx-pro.net/gpn.ico
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  #cname: status.gfx-pro.net
+  baseUrl: /upptime
+  theme: night
+  favicon: https://api.gfx-pro.net/gpn.ico
+  logoUrl: https://legal.gfx-pro.net/uploads/9/5/4/7/9547383/published/standard-black_9.png
+  name: GFX | Productions™
+  introTitle: ""
+  introMessage: 
   navbar:
-    - title: Status
-      href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
