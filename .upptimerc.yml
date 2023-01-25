@@ -25,4 +25,4 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 i18n:
-  footer: 
+  footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
