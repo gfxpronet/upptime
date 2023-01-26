@@ -31,9 +31,17 @@ status-website:
   name: GFX | Productions™
   introTitle: ""
   introMessage: 
+  customHeadHtml: "<meta http-equiv='refresh' content='30'>"
   navbar:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+
+i18n:
+  footer: "This page is automatically updated"
+  allSystemsOperational: "🟩 All systems operational"
+  degradedPerformance: "🟨 Degraded performance"
+  completeOutage: "🟥 Complete outage"
+  partialOutage: "🟧 Partial outage"
 
 workflowSchedule:
   graphs: "0 0 * * *"
