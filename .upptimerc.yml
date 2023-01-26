@@ -1,5 +1,6 @@
 owner: gfxpronet
 repo: upptime
+user-agent: gfxpronet
 
 sites:
   - name: GFX | Productions™
@@ -11,6 +12,15 @@ sites:
   - name: GFX | Productions™ Legal
     url: https://legal.gfx-pro.net
     icon: https://api.gfx-pro.net/gpn.ico
+  - name: MediaKiller™
+    url: https://mk.gfx-pro.net
+    icon: 
+  - name: PlayMusic™
+    url: https://music.gfxp.ro
+    icon: 
+  - name: Redirected by GPN™
+    url: https://gfxp.ro
+    icon: 
 
 status-website:
   #cname: status.gfx-pro.net
