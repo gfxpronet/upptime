@@ -11,13 +11,13 @@ sites:
     icon: 
   - name: GFX | Productions™ Legal
     url: https://legal.gfx-pro.net
-    icon: https://api.gfx-pro.net/gpn.ico
+    icon: 
   - name: MediaKiller™
     url: https://mk.gfx-pro.net
-    icon: 
+    icon: https://api.gfx-pro.net/img/mk.ico
   - name: PlayMusic™
     url: https://music.gfxp.ro
-    icon: 
+    icon: https://api.gfx-pro.net/img/playmusic.ico
   - name: Redirected by GPN™
     url: https://gfxp.ro
     icon: 
@@ -31,17 +31,13 @@ status-website:
   name: GFX | Productions™
   introTitle: ""
   introMessage: 
-  customHeadHtml: "<meta http-equiv='refresh' content='30'>"
+  customHeadHtml: ""
   navbar:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
 i18n:
-  footer: "This page is automatically updated"
-  allSystemsOperational: "🟩 All systems operational"
-  degradedPerformance: "🟨 Degraded performance"
-  completeOutage: "🟥 Complete outage"
-  partialOutage: "🟧 Partial outage"
+  footer: "©2023 GFX | Productions™. Trademarks belong to their respective owners, All Rights Reserved."
 
 workflowSchedule:
   graphs: "0 0 * * *"
