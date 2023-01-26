@@ -37,7 +37,7 @@ status-website:
       href: https://github.com/$OWNER/$REPO
 
 i18n:
-  footer: "©2023 GFX | Productions™. Trademarks belong to their respective owners, All Rights Reserved."
+  footer: "⠀"
 
 workflowSchedule:
   graphs: "0 0 * * *"
