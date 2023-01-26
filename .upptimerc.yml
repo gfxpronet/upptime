@@ -18,9 +18,21 @@ sites:
   - name: PlayMusic™
     url: https://music.gfxp.ro
     icon: https://api.gfx-pro.net/img/playmusic.ico
+  - name: Pokémon GO | Profiles
+    url: https://pgo.gfxp.ro
+    icon: https://api.gfx-pro.net/img/pgo.ico
+  - name: Pokémon GO | Shiny Hunt
+    url: https://api.gfx-pro.net/assets/shinyHunt/
+    icon: 
+  - name: Pokémon GO | Shiny Rates
+    url: https://api.gfx-pro.net/assets/shinyRates
+    icon: https://api.gfx-pro.net/img/pgo.ico
   - name: Redirected by GPN™
     url: https://gfxp.ro
     icon: 
+  - name: RGB24/BGR15 Converter
+    url: https://api.gfx-pro.net/assets/BGR15
+    icon: https://colorslurp.com/images/app-icon.png
 
 status-website:
   #cname: status.gfx-pro.net
