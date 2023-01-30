@@ -112,19 +112,19 @@
     "url": "https://api.gfx-pro.net/assets/shinyHunt/",
     "icon": "https://icons.duckduckgo.com/ip3/api.gfx-pro.net.ico",
     "slug": "pokemon-go-shiny-hunt",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 421,
-    "timeDay": 422,
-    "timeWeek": 421,
-    "timeMonth": 421,
-    "timeYear": 421,
+    "status": "up",
+    "uptime": "99.53%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.53%",
+    "time": 422,
+    "timeDay": 429,
+    "timeWeek": 422,
+    "timeMonth": 422,
+    "timeYear": 422,
     "dailyMinutesDown": {
-      "2023-01-30": 0
+      "2023-01-30": 7
     }
   },
   {
