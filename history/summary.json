@@ -59,18 +59,18 @@
     "icon": "https://api.gfx-pro.net/img/mk.ico",
     "slug": "media-killer",
     "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "97.28%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
+    "uptime": "99.91%",
+    "uptimeDay": "97.62%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 867,
     "timeDay": 874,
     "timeWeek": 889,
     "timeMonth": 867,
     "timeYear": 867,
     "dailyMinutesDown": {
-      "2023-02-23": 39
+      "2023-02-23": 34
     }
   },
   {
@@ -132,9 +132,9 @@
     "url": "https://api.gfx-pro.net/assets/shinyRates",
     "icon": "https://api.gfx-pro.net/img/pgo.ico",
     "slug": "pokemon-go-shiny-rates",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "94.42%",
+    "uptimeDay": "94.40%",
     "uptimeWeek": "99.20%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.77%",
