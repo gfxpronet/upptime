@@ -132,9 +132,9 @@
     "url": "https://api.gfx-pro.net/assets/shinyRates",
     "icon": "https://api.gfx-pro.net/img/pgo.ico",
     "slug": "pokemon-go-shiny-rates",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "89.17%",
+    "uptimeDay": "89.13%",
     "uptimeWeek": "98.45%",
     "uptimeMonth": "99.56%",
     "uptimeYear": "99.56%",
@@ -144,7 +144,7 @@
     "timeMonth": 1388,
     "timeYear": 1388,
     "dailyMinutesDown": {
-      "2023-02-23": 156
+      "2023-02-23": 157
     }
   },
   {
