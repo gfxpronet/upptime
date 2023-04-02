@@ -22,7 +22,7 @@ sites:
     url: https://pgo.gfxp.ro
     icon: https://api.gfx-pro.net/img/pgo.ico
   - name: Pokémon GO Shiny Hunt
-    url: https://api.gfx-pro.net/assets/shinyHunt/
+    url: https://api.gfx-pro.net/assets/shinyHunt/v2/
     icon: 
   - name: Pokémon GO Shiny Rates
     url: https://api.gfx-pro.net/assets/shinyRates
