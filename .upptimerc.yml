@@ -9,9 +9,6 @@ sites:
   - name: GFX Productions™ API
     url: https://api.gfx-pro.net
     icon: 
-  - name: GFX Productions™ Legal
-    url: https://legal.gfx-pro.net
-    icon: 
   - name: MediaKiller™
     url: https://mk.gfx-pro.net
     icon: https://api.gfx-pro.net/img/mk.ico
@@ -39,7 +36,7 @@ status-website:
   baseUrl: /upptime
   theme: night
   favicon: https://api.gfx-pro.net/gpn.ico
-  logoUrl: https://legal.gfx-pro.net/uploads/9/5/4/7/9547383/published/standard-white_10.png
+  logoUrl: https://api.gfx-pro.net/img/logo.png
   name: GFX | Productions™
   introTitle: ""
   introMessage: 
