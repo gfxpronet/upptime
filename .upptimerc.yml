@@ -35,8 +35,8 @@ status-website:
   #cname: status.gfx-pro.net
   baseUrl: /upptime
   theme: night
-  favicon: https://api.gfx-pro.net/gpn.ico
-  logoUrl: https://api.gfx-pro.net/img/logo.png
+  favicon: https://api.gfx-pro.net/img/gpn.ico
+  logoUrl: https://wsrv.nl/?url=https://api.gfx-pro.net/img/logo.png&w=250
   name: GFX | Productions™
   introTitle: ""
   introMessage: 
