@@ -5,10 +5,10 @@ user-agent: gfxpronet
 sites:
   - name: GFX Productions™
     url: https://gfx-pro.net
-    icon: https://api.gfx-pro.net/gpn.ico
+    icon: https://api.gfx-pro.net/img/gpn.ico
   - name: GFX Productions™ API
     url: https://api.gfx-pro.net
-    icon: 
+    icon: https://api.gfx-pro.net/img/gpn.ico
   - name: MediaKiller™
     url: https://mk.gfx-pro.net
     icon: https://api.gfx-pro.net/img/mk.ico
@@ -36,7 +36,7 @@ status-website:
   baseUrl: /upptime
   theme: night
   favicon: https://api.gfx-pro.net/img/gpn.ico
-  logoUrl: https://wsrv.nl/?url=https://api.gfx-pro.net/img/logo.png&w=250
+  logoUrl: https://api.gfx-pro.net/img/gpn.ico
   name: GFX | Productions™
   introTitle: ""
   introMessage: 
