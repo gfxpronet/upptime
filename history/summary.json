@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 754,
-    "timeDay": 940,
-    "timeWeek": 926,
-    "timeMonth": 920,
-    "timeYear": 754,
+    "time": 756,
+    "timeDay": 996,
+    "timeWeek": 944,
+    "timeMonth": 922,
+    "timeYear": 756,
     "dailyMinutesDown": {
       "2023-03-26": 38
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 761,
-    "timeDay": 906,
-    "timeWeek": 952,
-    "timeMonth": 996,
-    "timeYear": 761,
+    "time": 762,
+    "timeDay": 899,
+    "timeWeek": 941,
+    "timeMonth": 993,
+    "timeYear": 762,
     "dailyMinutesDown": {
       "2023-03-26": 37
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
-    "time": 966,
-    "timeDay": 1146,
-    "timeWeek": 1113,
-    "timeMonth": 1033,
-    "timeYear": 966,
+    "time": 967,
+    "timeDay": 1155,
+    "timeWeek": 1136,
+    "timeMonth": 1038,
+    "timeYear": 967,
     "dailyMinutesDown": {
       "2023-03-26": 192,
       "2023-02-23": 124
@@ -72,9 +72,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 921,
-    "timeDay": 981,
-    "timeWeek": 961,
-    "timeMonth": 901,
+    "timeDay": 979,
+    "timeWeek": 974,
+    "timeMonth": 903,
     "timeYear": 921,
     "dailyMinutesDown": {
       "2023-03-26": 192
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 996,
-    "timeDay": 1065,
-    "timeWeek": 1021,
-    "timeMonth": 969,
-    "timeYear": 996,
+    "time": 997,
+    "timeDay": 1099,
+    "timeWeek": 1046,
+    "timeMonth": 973,
+    "timeYear": 997,
     "dailyMinutesDown": {
       "2023-03-26": 192
     }
@@ -106,16 +106,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.gfx-pro.net.ico",
     "slug": "pokemon-go-shiny-hunt",
     "status": "up",
-    "uptime": "94.14%",
+    "uptime": "94.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.14%",
-    "time": 344,
-    "timeDay": 168,
-    "timeWeek": 278,
-    "timeMonth": 380,
-    "timeYear": 344,
+    "uptimeYear": "94.19%",
+    "time": 342,
+    "timeDay": 177,
+    "timeWeek": 246,
+    "timeMonth": 372,
+    "timeYear": 342,
     "dailyMinutesDown": {
       "2023-04-02": 824,
       "2023-04-01": 1440,
@@ -138,11 +138,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
-    "time": 1300,
-    "timeDay": 1193,
-    "timeWeek": 1315,
-    "timeMonth": 1308,
-    "timeYear": 1300,
+    "time": 1299,
+    "timeDay": 1191,
+    "timeWeek": 1300,
+    "timeMonth": 1307,
+    "timeYear": 1299,
     "dailyMinutesDown": {
       "2023-03-26": 108,
       "2023-02-23": 174
@@ -159,11 +159,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 879,
-    "timeDay": 965,
-    "timeWeek": 937,
-    "timeMonth": 866,
-    "timeYear": 879,
+    "time": 880,
+    "timeDay": 945,
+    "timeWeek": 951,
+    "timeMonth": 869,
+    "timeYear": 880,
     "dailyMinutesDown": {
       "2023-03-26": 64
     }
@@ -179,11 +179,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 160,
-    "timeDay": 146,
+    "time": 159,
+    "timeDay": 145,
     "timeWeek": 151,
     "timeMonth": 148,
-    "timeYear": 160,
+    "timeYear": 159,
     "dailyMinutesDown": {
       "2023-03-26": 108
     }
