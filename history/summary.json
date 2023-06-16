@@ -13,7 +13,7 @@
     "time": 783,
     "timeDay": 858,
     "timeWeek": 883,
-    "timeMonth": 947,
+    "timeMonth": 946,
     "timeYear": 783,
     "dailyMinutesDown": {
       "2023-03-26": 38
@@ -33,7 +33,7 @@
     "time": 779,
     "timeDay": 857,
     "timeWeek": 863,
-    "timeMonth": 915,
+    "timeMonth": 914,
     "timeYear": 779,
     "dailyMinutesDown": {
       "2023-03-26": 37
@@ -74,7 +74,7 @@
     "time": 922,
     "timeDay": 932,
     "timeWeek": 924,
-    "timeMonth": 936,
+    "timeMonth": 935,
     "timeYear": 922,
     "dailyMinutesDown": {
       "2023-03-26": 192
@@ -94,7 +94,7 @@
     "time": 999,
     "timeDay": 1010,
     "timeWeek": 1023,
-    "timeMonth": 1016,
+    "timeMonth": 1014,
     "timeYear": 999,
     "dailyMinutesDown": {
       "2023-03-26": 192
@@ -106,15 +106,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.gfx-pro.net.ico",
     "slug": "pokemon-go-shiny-hunt",
     "status": "up",
-    "uptime": "95.03%",
+    "uptime": "95.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.03%",
+    "uptimeYear": "95.04%",
     "time": 316,
     "timeDay": 130,
     "timeWeek": 134,
-    "timeMonth": 207,
+    "timeMonth": 206,
     "timeYear": 316,
     "dailyMinutesDown": {
       "2023-04-02": 824,
@@ -133,18 +133,17 @@
     "icon": "https://api.gfx-pro.net/img/pgo.ico",
     "slug": "pokemon-go-shiny-rates",
     "status": "up",
-    "uptime": "99.85%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.85%",
+    "uptime": "99.86%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.86%",
     "time": 1295,
     "timeDay": 1342,
     "timeWeek": 1272,
-    "timeMonth": 1281,
+    "timeMonth": 1280,
     "timeYear": 1295,
     "dailyMinutesDown": {
-      "2023-06-15": 5,
       "2023-03-26": 108,
       "2023-02-23": 174
     }
