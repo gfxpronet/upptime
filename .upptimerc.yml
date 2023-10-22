@@ -5,25 +5,25 @@ user-agent: gfxpronet
 sites:
   - name: GFX Productions™
     url: https://gfx-pro.net
-    icon: https://api.gfx-pro.net/img/gpn.ico
+    icon: https://api.gfx-pro.net/img/icon/gpn.ico
   - name: GFX Productions™ API
     url: https://api.gfx-pro.net
-    icon: https://api.gfx-pro.net/img/gpn.ico
+    icon: https://api.gfx-pro.net/img/icon/gpn.ico
   - name: MediaKiller™
     url: https://mk.gfx-pro.net
-    icon: https://api.gfx-pro.net/img/mk.ico
+    icon: https://api.gfx-pro.net/img/icons/mk.ico
   - name: PlayMusic™
     url: https://music.gfxp.ro
-    icon: https://api.gfx-pro.net/img/playmusic.ico
+    icon: https://api.gfx-pro.net/img/icons/playmusic.ico
   - name: Pokémon GO Profiles
     url: https://pgo.gfxp.ro
-    icon: https://api.gfx-pro.net/img/pgo.ico
+    icon: https://api.gfx-pro.net/img/icons/pgo.ico
   - name: Pokémon GO Shiny Hunt
     url: https://api.gfx-pro.net/assets/shinyHunt/v2/
     icon: 
   - name: Pokémon GO Shiny Rates
     url: https://api.gfx-pro.net/assets/shinyRates
-    icon: https://api.gfx-pro.net/img/pgo.ico
+    icon: https://api.gfx-pro.net/img/icons/pgo.ico
   - name: Redirected by GPN™
     url: https://gfxp.ro
     icon: 
@@ -35,9 +35,9 @@ status-website:
   #cname: status.gfx-pro.net
   baseUrl: /upptime
   theme: night
-  favicon: https://api.gfx-pro.net/img/gpn.ico
-  logoUrl: https://api.gfx-pro.net/img/gpn.ico
-  name: GFX | Productions™
+  favicon: https://api.gfx-pro.net/img/icons/gpn.ico
+  logoUrl: https://api.gfx-pro.net/img/icons/gpn.ico
+  name: GPN™ StatusPage
   introTitle: ""
   introMessage: 
   customHeadHtml: ""
