@@ -1,7 +1,7 @@
 url: https://music.gfxp.ro
-status: up
-code: 200
-responseTime: 623
-lastUpdated: 2023-10-26T09:09:23.378Z
+status: down
+code: 502
+responseTime: 391
+lastUpdated: 2023-10-26T09:55:04.178Z
 startTime: 2023-01-26T11:32:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
