@@ -1,7 +1,7 @@
 url: https://api.gfx-pro.net/assets/shinyRates
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-05-26T15:12:36.456Z
+status: up
+code: 200
+responseTime: 806
+lastUpdated: 2024-05-26T16:13:07.144Z
 startTime: 2023-01-29T13:58:33.000Z
 generator: Upptime <https://github.com/upptime/upptime>
