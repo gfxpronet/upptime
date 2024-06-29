@@ -6,29 +6,49 @@ sites:
   - name: GFX Productions™
     url: https://gfx-pro.net
     icon: https://api.gfx-pro.net/img/icons/gpn.ico
+
   - name: GFX Productions™ API
     url: https://api.gfx-pro.net
     icon: https://api.gfx-pro.net/img/icons/gpn.ico
+
+  - name: GFX Productions™ CDN
+    url: http://gfxpronet.byethost3.com
+    icon: https://api.gfx-pro.net/img/icons/gpn.ico
+
+  - name: GFX Productions™ IDE
+    url: https://code.gfx-pro.net
+    icon: https://api.gfx-pro.net/img/icons/gpn.ico
+
+  - name: GFX Productions™ NAS
+    url: https://nas.gfx-pro.net
+    icon: https://api.gfx-pro.net/img/icons/gpn.ico
+
   - name: MediaKiller™
     url: https://mk.gfx-pro.net
     icon: https://api.gfx-pro.net/img/icons/mk.ico
+
+  - name: Mindful Planner
+    url: https://mindfulplanner.nl
+    icon: https://mindfulplanner.nl/img/fav.ico
+
   - name: PlayMusic™
     url: https://music.gfxp.ro
     icon: https://api.gfx-pro.net/img/icons/playmusic.ico
-  - name: Pokémon GO Profiles
-    url: https://pgo.gfxp.ro
-    icon: https://api.gfx-pro.net/img/icons/pgo.ico
+
   - name: Pokémon GO Shiny Hunt
     url: https://api.gfx-pro.net/assets/shinyHunt/v2/
     icon: 
+
   - name: Pokémon GO Shiny Rates
-    url: https://api.gfx-pro.net/assets/shinyRates
+    url: https://nas.gfx-pro.net/shiny/rates
     icon: https://api.gfx-pro.net/img/icons/pgo.ico
+
   - name: Redirected by GPN™
     url: https://gfxp.ro
     icon: https://api.gfx-pro.net/img/logos/redirected.png
+
   - name: RGB24/BGR15 Converter
-    url: https://api.gfx-pro.net/assets/BGR15
+    url: https://nas.gfx-pro.net/BGR15
     icon: https://colorslurp.com/images/app-icon.png
 
 status-website:
