@@ -92,19 +92,19 @@
     "url": "https://nas.gfx-pro.net",
     "icon": "https://api.gfx-pro.net/img/icons/gpn.ico",
     "slug": "gfx-productions-nas",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.76%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
     "time": 765,
-    "timeDay": 860,
+    "timeDay": 849,
     "timeWeek": 765,
     "timeMonth": 765,
     "timeYear": 765,
     "dailyMinutesDown": {
-      "2024-07-03": 1
+      "2024-07-03": 14
     }
   },
   {
@@ -403,7 +403,7 @@
     "status": "up",
     "uptime": "97.76%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "56.91%",
+    "uptimeWeek": "57.05%",
     "uptimeMonth": "82.32%",
     "uptimeYear": "96.81%",
     "time": 131,
