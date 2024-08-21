@@ -1,7 +1,7 @@
 url: https://nas.gfx-pro.net
-status: up
-code: 200
-responseTime: 17241
-lastUpdated: 2024-08-21T12:21:25.377Z
+status: down
+code: 502
+responseTime: 1213
+lastUpdated: 2024-08-21T13:31:36.870Z
 startTime: 2024-06-29T18:58:24.533Z
 generator: Upptime <https://github.com/upptime/upptime>
