@@ -1,7 +1,7 @@
 url: https://api.gfx-pro.net
-status: up
-code: 200
-responseTime: 338
-lastUpdated: 2025-01-01T12:22:30.045Z
+status: down
+code: 502
+responseTime: 294
+lastUpdated: 2025-01-01T13:50:32.818Z
 startTime: 2023-01-29T13:58:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
