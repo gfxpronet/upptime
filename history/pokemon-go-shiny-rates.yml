@@ -1,7 +1,7 @@
 url: https://nas.gfx-pro.net/shiny/rates
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-01-05T19:01:45.349Z
+status: up
+code: 200
+responseTime: 2600
+lastUpdated: 2025-01-05T19:27:49.249Z
 startTime: 2023-01-29T13:58:33.000Z
 generator: Upptime <https://github.com/upptime/upptime>
