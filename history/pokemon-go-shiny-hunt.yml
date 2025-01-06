@@ -1,7 +1,7 @@
 url: https://api.gfx-pro.net/assets/shinyHunt/v2/
-status: down
-code: 404
-responseTime: 326
-lastUpdated: 2025-01-06T06:18:17.640Z
+status: up
+code: 200
+responseTime: 366
+lastUpdated: 2025-01-06T06:38:40.934Z
 startTime: 2023-01-29T13:58:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
