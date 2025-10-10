@@ -12,7 +12,7 @@
     "uptimeYear": "99.36%",
     "time": 676,
     "timeDay": 515,
-    "timeWeek": 502,
+    "timeWeek": 503,
     "timeMonth": 521,
     "timeYear": 662,
     "dailyMinutesDown": {
@@ -34,7 +34,7 @@
     "icon": "https://api.gfx-pro.net/img/icons/gpn.ico",
     "slug": "gfx-productions-api",
     "status": "down",
-    "uptime": "90.47%",
+    "uptime": "90.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -45,7 +45,7 @@
     "timeMonth": 366,
     "timeYear": 528,
     "dailyMinutesDown": {
-      "2025-10-10": 931,
+      "2025-10-10": 951,
       "2025-10-09": 1440,
       "2025-10-08": 1440,
       "2025-10-07": 1440,
@@ -162,19 +162,19 @@
     "url": "http://gfxpronet.byethost3.com",
     "icon": "https://api.gfx-pro.net/img/icons/gpn.ico",
     "slug": "gfx-productions-cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "66.87%",
-    "uptimeWeek": "71.03%",
-    "uptimeMonth": "92.54%",
+    "uptimeDay": "66.72%",
+    "uptimeWeek": "71.00%",
+    "uptimeMonth": "92.59%",
     "uptimeYear": "99.38%",
     "time": 2078,
     "timeDay": 2411,
-    "timeWeek": 2171,
+    "timeWeek": 2172,
     "timeMonth": 2057,
     "timeYear": 2091,
     "dailyMinutesDown": {
-      "2025-10-10": 312,
+      "2025-10-10": 314,
       "2025-10-09": 626,
       "2025-10-08": 502,
       "2025-10-07": 405,
@@ -182,7 +182,7 @@
       "2025-10-05": 448,
       "2025-10-04": 206,
       "2025-10-03": 328,
-      "2025-10-02": 72
+      "2025-10-02": 50
     }
   },
   {
@@ -295,7 +295,7 @@
     "timeMonth": 0,
     "timeYear": 442,
     "dailyMinutesDown": {
-      "2025-10-10": 932,
+      "2025-10-10": 951,
       "2025-10-09": 1440,
       "2025-10-08": 1440,
       "2025-10-07": 1440,
@@ -674,7 +674,7 @@
     "uptimeMonth": "92.47%",
     "uptimeYear": "99.37%",
     "time": 533,
-    "timeDay": 473,
+    "timeDay": 475,
     "timeWeek": 441,
     "timeMonth": 457,
     "timeYear": 532,
@@ -708,7 +708,7 @@
     "timeMonth": 0,
     "timeYear": 518,
     "dailyMinutesDown": {
-      "2025-10-10": 933,
+      "2025-10-10": 952,
       "2025-10-09": 1440,
       "2025-10-08": 1440,
       "2025-10-07": 1440,
@@ -1092,7 +1092,7 @@
     "timeMonth": 256,
     "timeYear": 370,
     "dailyMinutesDown": {
-      "2025-10-10": 933,
+      "2025-10-10": 952,
       "2025-10-09": 1440,
       "2025-10-08": 1440,
       "2025-10-07": 1440,
@@ -1258,19 +1258,19 @@
     "url": "https://gfxp.ro",
     "icon": "https://api.gfx-pro.net/img/logos/redirected.png",
     "slug": "redirected-by-gpn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "58.52%",
-    "uptimeWeek": "70.41%",
-    "uptimeMonth": "92.31%",
+    "uptimeDay": "58.37%",
+    "uptimeWeek": "70.39%",
+    "uptimeMonth": "92.35%",
     "uptimeYear": "99.36%",
     "time": 618,
-    "timeDay": 572,
+    "timeDay": 573,
     "timeWeek": 531,
     "timeMonth": 535,
     "timeYear": 616,
     "dailyMinutesDown": {
-      "2025-10-10": 436,
+      "2025-10-10": 438,
       "2025-10-09": 614,
       "2025-10-08": 486,
       "2025-10-07": 385,
@@ -1278,7 +1278,7 @@
       "2025-10-05": 449,
       "2025-10-04": 206,
       "2025-10-03": 328,
-      "2025-10-02": 115
+      "2025-10-02": 94
     }
   },
   {
@@ -1298,7 +1298,7 @@
     "timeMonth": 598,
     "timeYear": 204,
     "dailyMinutesDown": {
-      "2025-10-10": 934,
+      "2025-10-10": 953,
       "2025-10-09": 1440,
       "2025-10-08": 1440,
       "2025-10-07": 1440,
