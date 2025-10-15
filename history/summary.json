@@ -44,7 +44,7 @@
     "timeMonth": 362,
     "timeYear": 525,
     "dailyMinutesDown": {
-      "2025-10-15": 433,
+      "2025-10-15": 452,
       "2025-10-14": 1440,
       "2025-10-13": 1440,
       "2025-10-12": 1440,
@@ -166,11 +166,11 @@
     "url": "http://gfxpronet.byethost3.com",
     "icon": "https://api.gfx-pro.net/img/icons/gpn.ico",
     "slug": "gfx-productions-cdn",
-    "status": "up",
-    "uptime": "99.48%",
-    "uptimeDay": "74.93%",
+    "status": "down",
+    "uptime": "99.49%",
+    "uptimeDay": "74.88%",
     "uptimeWeek": "66.18%",
-    "uptimeMonth": "91.96%",
+    "uptimeMonth": "92.01%",
     "uptimeYear": "99.33%",
     "time": 2073,
     "timeDay": 1691,
@@ -178,14 +178,14 @@
     "timeMonth": 2051,
     "timeYear": 2088,
     "dailyMinutesDown": {
-      "2025-10-15": 106,
+      "2025-10-15": 107,
       "2025-10-14": 493,
       "2025-10-13": 419,
       "2025-10-12": 703,
       "2025-10-11": 399,
       "2025-10-10": 411,
       "2025-10-09": 626,
-      "2025-10-08": 364
+      "2025-10-08": 338
     }
   },
   {
@@ -297,7 +297,7 @@
     "timeMonth": 0,
     "timeYear": 441,
     "dailyMinutesDown": {
-      "2025-10-15": 434,
+      "2025-10-15": 453,
       "2025-10-14": 1440,
       "2025-10-13": 1440,
       "2025-10-12": 1440,
@@ -677,7 +677,7 @@
     "uptimeYear": "99.33%",
     "time": 528,
     "timeDay": 428,
-    "timeWeek": 457,
+    "timeWeek": 458,
     "timeMonth": 458,
     "timeYear": 528,
     "dailyMinutesDown": {
@@ -698,7 +698,7 @@
     "icon": "https://api.gfx-pro.net/img/icons/playmusic.ico",
     "slug": "play-music",
     "status": "down",
-    "uptime": "59.07%",
+    "uptime": "59.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -709,7 +709,7 @@
     "timeMonth": 0,
     "timeYear": 517,
     "dailyMinutesDown": {
-      "2025-10-15": 434,
+      "2025-10-15": 453,
       "2025-10-14": 1440,
       "2025-10-13": 1440,
       "2025-10-12": 1440,
@@ -1093,7 +1093,7 @@
     "timeMonth": 248,
     "timeYear": 370,
     "dailyMinutesDown": {
-      "2025-10-15": 434,
+      "2025-10-15": 453,
       "2025-10-14": 1440,
       "2025-10-13": 1440,
       "2025-10-12": 1440,
@@ -1272,8 +1272,8 @@
     "uptimeYear": "99.31%",
     "time": 614,
     "timeDay": 526,
-    "timeWeek": 545,
-    "timeMonth": 535,
+    "timeWeek": 546,
+    "timeMonth": 536,
     "timeYear": 612,
     "dailyMinutesDown": {
       "2025-10-15": 106,
@@ -1304,7 +1304,7 @@
     "timeMonth": 599,
     "timeYear": 208,
     "dailyMinutesDown": {
-      "2025-10-15": 435,
+      "2025-10-15": 454,
       "2025-10-14": 1440,
       "2025-10-13": 1440,
       "2025-10-12": 1440,
