@@ -6,17 +6,17 @@
     "slug": "gfx-productions",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "82.65%",
-    "uptimeWeek": "73.40%",
-    "uptimeMonth": "92.54%",
+    "uptimeDay": "83.58%",
+    "uptimeWeek": "73.58%",
+    "uptimeMonth": "92.51%",
     "uptimeYear": "99.38%",
     "time": 635,
-    "timeDay": 444,
+    "timeDay": 446,
     "timeWeek": 488,
     "timeMonth": 502,
     "timeYear": 630,
     "dailyMinutesDown": {
-      "2025-10-26": 185,
+      "2025-10-26": 172,
       "2025-10-25": 471,
       "2025-10-24": 351,
       "2025-10-23": 328,
@@ -24,7 +24,8 @@
       "2025-10-21": 371,
       "2025-10-20": 439,
       "2025-10-19": 424,
-      "2025-10-18": 410
+      "2025-10-18": 410,
+      "2025-10-17": 28
     }
   },
   {
@@ -44,7 +45,7 @@
     "timeMonth": 358,
     "timeYear": 520,
     "dailyMinutesDown": {
-      "2025-10-26": 892,
+      "2025-10-26": 902,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
@@ -177,27 +178,26 @@
     "url": "http://gfxpronet.byethost3.com",
     "icon": "https://api.gfx-pro.net/img/icons/gpn.ico",
     "slug": "gfx-productions-cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "77.16%",
-    "uptimeWeek": "67.14%",
-    "uptimeMonth": "91.88%",
-    "uptimeYear": "99.32%",
+    "uptimeDay": "77.18%",
+    "uptimeWeek": "67.22%",
+    "uptimeMonth": "91.92%",
+    "uptimeYear": "99.33%",
     "time": 2052,
-    "timeDay": 1633,
+    "timeDay": 1654,
     "timeWeek": 1734,
     "timeMonth": 1904,
     "timeYear": 2060,
     "dailyMinutesDown": {
-      "2025-10-26": 192,
+      "2025-10-26": 194,
       "2025-10-25": 631,
       "2025-10-24": 402,
       "2025-10-23": 371,
       "2025-10-22": 542,
       "2025-10-21": 486,
       "2025-10-20": 480,
-      "2025-10-19": 434,
-      "2025-10-18": 19
+      "2025-10-19": 434
     }
   },
   {
@@ -312,7 +312,7 @@
     "timeMonth": 0,
     "timeYear": 443,
     "dailyMinutesDown": {
-      "2025-10-26": 893,
+      "2025-10-26": 903,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
@@ -686,17 +686,17 @@
     "slug": "mindful-planner",
     "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "82.63%",
-    "uptimeWeek": "73.91%",
-    "uptimeMonth": "92.40%",
-    "uptimeYear": "99.37%",
+    "uptimeDay": "83.52%",
+    "uptimeWeek": "74.09%",
+    "uptimeMonth": "92.37%",
+    "uptimeYear": "99.36%",
     "time": 518,
-    "timeDay": 429,
+    "timeDay": 431,
     "timeWeek": 436,
     "timeMonth": 451,
     "timeYear": 517,
     "dailyMinutesDown": {
-      "2025-10-26": 184,
+      "2025-10-26": 171,
       "2025-10-25": 469,
       "2025-10-24": 347,
       "2025-10-23": 311,
@@ -705,7 +705,7 @@
       "2025-10-20": 434,
       "2025-10-19": 403,
       "2025-10-18": 405,
-      "2025-10-17": 134
+      "2025-10-17": 161
     }
   },
   {
@@ -725,7 +725,7 @@
     "timeMonth": 0,
     "timeYear": 520,
     "dailyMinutesDown": {
-      "2025-10-26": 893,
+      "2025-10-26": 903,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
@@ -1109,7 +1109,7 @@
     "timeMonth": 242,
     "timeYear": 366,
     "dailyMinutesDown": {
-      "2025-10-26": 894,
+      "2025-10-26": 903,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
@@ -1295,19 +1295,19 @@
     "url": "https://gfxp.ro",
     "icon": "https://api.gfx-pro.net/img/logos/redirected.png",
     "slug": "redirected-by-gpn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "78.55%",
-    "uptimeWeek": "68.62%",
-    "uptimeMonth": "91.97%",
+    "uptimeDay": "78.64%",
+    "uptimeWeek": "68.69%",
+    "uptimeMonth": "92.01%",
     "uptimeYear": "99.33%",
     "time": 604,
-    "timeDay": 512,
+    "timeDay": 515,
     "timeWeek": 529,
     "timeMonth": 534,
     "timeYear": 604,
     "dailyMinutesDown": {
-      "2025-10-26": 192,
+      "2025-10-26": 194,
       "2025-10-25": 610,
       "2025-10-24": 372,
       "2025-10-23": 363,
@@ -1315,7 +1315,7 @@
       "2025-10-21": 447,
       "2025-10-20": 477,
       "2025-10-19": 371,
-      "2025-10-18": 173
+      "2025-10-18": 153
     }
   },
   {
@@ -1335,7 +1335,7 @@
     "timeMonth": 460,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2025-10-26": 894,
+      "2025-10-26": 904,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
