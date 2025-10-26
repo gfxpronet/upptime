@@ -6,9 +6,9 @@
     "slug": "gfx-productions",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "76.65%",
-    "uptimeWeek": "74.37%",
-    "uptimeMonth": "92.67%",
+    "uptimeDay": "77.38%",
+    "uptimeWeek": "74.52%",
+    "uptimeMonth": "92.62%",
     "uptimeYear": "99.39%",
     "time": 645,
     "timeDay": 448,
@@ -16,7 +16,7 @@
     "timeMonth": 500,
     "timeYear": 629,
     "dailyMinutesDown": {
-      "2025-10-26": 302,
+      "2025-10-26": 291,
       "2025-10-25": 471,
       "2025-10-24": 351,
       "2025-10-23": 328,
@@ -24,7 +24,7 @@
       "2025-10-21": 371,
       "2025-10-20": 439,
       "2025-10-19": 424,
-      "2025-10-18": 240
+      "2025-10-18": 269
     }
   },
   {
@@ -44,7 +44,7 @@
     "timeMonth": 359,
     "timeYear": 520,
     "dailyMinutesDown": {
-      "2025-10-26": 1365,
+      "2025-10-26": 1370,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
@@ -177,19 +177,19 @@
     "url": "http://gfxpronet.byethost3.com",
     "icon": "https://api.gfx-pro.net/img/icons/gpn.ico",
     "slug": "gfx-productions-cdn",
-    "status": "down",
+    "status": "up",
     "uptime": "99.49%",
-    "uptimeDay": "67.52%",
-    "uptimeWeek": "66.57%",
-    "uptimeMonth": "91.82%",
+    "uptimeDay": "67.22%",
+    "uptimeWeek": "66.58%",
+    "uptimeMonth": "91.81%",
     "uptimeYear": "99.32%",
     "time": 2052,
-    "timeDay": 1747,
-    "timeWeek": 1703,
+    "timeDay": 1731,
+    "timeWeek": 1700,
     "timeMonth": 1901,
     "timeYear": 2058,
     "dailyMinutesDown": {
-      "2025-10-26": 410,
+      "2025-10-26": 415,
       "2025-10-25": 631,
       "2025-10-24": 402,
       "2025-10-23": 371,
@@ -311,7 +311,7 @@
     "timeMonth": 0,
     "timeYear": 443,
     "dailyMinutesDown": {
-      "2025-10-26": 1366,
+      "2025-10-26": 1371,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
@@ -685,17 +685,17 @@
     "slug": "mindful-planner",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "75.47%",
-    "uptimeWeek": "74.71%",
-    "uptimeMonth": "92.69%",
+    "uptimeDay": "76.28%",
+    "uptimeWeek": "74.87%",
+    "uptimeMonth": "92.66%",
     "uptimeYear": "99.39%",
     "time": 519,
-    "timeDay": 443,
+    "timeDay": 445,
     "timeWeek": 436,
     "timeMonth": 450,
     "timeYear": 517,
     "dailyMinutesDown": {
-      "2025-10-26": 316,
+      "2025-10-26": 304,
       "2025-10-25": 469,
       "2025-10-24": 347,
       "2025-10-23": 311,
@@ -703,7 +703,7 @@
       "2025-10-21": 354,
       "2025-10-20": 434,
       "2025-10-19": 403,
-      "2025-10-18": 281
+      "2025-10-18": 305
     }
   },
   {
@@ -723,7 +723,7 @@
     "timeMonth": 0,
     "timeYear": 520,
     "dailyMinutesDown": {
-      "2025-10-26": 1366,
+      "2025-10-26": 1371,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
@@ -1107,7 +1107,7 @@
     "timeMonth": 243,
     "timeYear": 366,
     "dailyMinutesDown": {
-      "2025-10-26": 1366,
+      "2025-10-26": 1371,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
@@ -1294,25 +1294,25 @@
     "icon": "https://api.gfx-pro.net/img/logos/redirected.png",
     "slug": "redirected-by-gpn",
     "status": "up",
-    "uptime": "99.76%",
-    "uptimeDay": "67.55%",
-    "uptimeWeek": "68.05%",
-    "uptimeMonth": "91.97%",
-    "uptimeYear": "99.33%",
+    "uptime": "99.75%",
+    "uptimeDay": "68.41%",
+    "uptimeWeek": "68.22%",
+    "uptimeMonth": "91.90%",
+    "uptimeYear": "99.32%",
     "time": 604,
-    "timeDay": 545,
+    "timeDay": 549,
     "timeWeek": 533,
     "timeMonth": 535,
     "timeYear": 604,
     "dailyMinutesDown": {
-      "2025-10-26": 410,
+      "2025-10-26": 398,
       "2025-10-25": 610,
       "2025-10-24": 372,
       "2025-10-23": 363,
       "2025-10-22": 512,
       "2025-10-21": 447,
       "2025-10-20": 477,
-      "2025-10-19": 326
+      "2025-10-19": 371
     }
   },
   {
@@ -1332,7 +1332,7 @@
     "timeMonth": 460,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2025-10-26": 1367,
+      "2025-10-26": 1372,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
