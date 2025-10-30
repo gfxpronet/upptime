@@ -6,17 +6,17 @@
     "slug": "gfx-productions",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "64.53%",
-    "uptimeWeek": "72.13%",
-    "uptimeMonth": "92.45%",
+    "uptimeDay": "66.14%",
+    "uptimeWeek": "72.21%",
+    "uptimeMonth": "92.43%",
     "uptimeYear": "99.37%",
     "time": 630,
     "timeDay": 629,
     "timeWeek": 509,
-    "timeMonth": 502,
+    "timeMonth": 501,
     "timeYear": 625,
     "dailyMinutesDown": {
-      "2025-10-30": 383,
+      "2025-10-30": 375,
       "2025-10-29": 339,
       "2025-10-28": 406,
       "2025-10-27": 341,
@@ -25,7 +25,7 @@
       "2025-10-24": 351,
       "2025-10-23": 328,
       "2025-10-22": 288,
-      "2025-10-21": 80
+      "2025-10-21": 97
     }
   },
   {
@@ -45,7 +45,7 @@
     "timeMonth": 362,
     "timeYear": 517,
     "dailyMinutesDown": {
-      "2025-10-30": 957,
+      "2025-10-30": 972,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
       "2025-10-27": 1440,
@@ -182,19 +182,19 @@
     "url": "http://gfxpronet.byethost3.com",
     "icon": "https://api.gfx-pro.net/img/icons/gpn.ico",
     "slug": "gfx-productions-cdn",
-    "status": "down",
+    "status": "up",
     "uptime": "99.50%",
-    "uptimeDay": "60.32%",
+    "uptimeDay": "60.38%",
     "uptimeWeek": "67.27%",
-    "uptimeMonth": "92.03%",
-    "uptimeYear": "99.34%",
+    "uptimeMonth": "92.00%",
+    "uptimeYear": "99.33%",
     "time": 2045,
-    "timeDay": 1651,
-    "timeWeek": 1673,
-    "timeMonth": 1891,
+    "timeDay": 1628,
+    "timeWeek": 1670,
+    "timeMonth": 1890,
     "timeYear": 2051,
     "dailyMinutesDown": {
-      "2025-10-30": 420,
+      "2025-10-30": 435,
       "2025-10-29": 357,
       "2025-10-28": 457,
       "2025-10-27": 388,
@@ -317,7 +317,7 @@
     "timeMonth": 0,
     "timeYear": 443,
     "dailyMinutesDown": {
-      "2025-10-30": 958,
+      "2025-10-30": 973,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
       "2025-10-27": 1440,
@@ -691,9 +691,9 @@
     "slug": "mindful-planner",
     "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "65.71%",
-    "uptimeWeek": "72.32%",
-    "uptimeMonth": "92.50%",
+    "uptimeDay": "67.41%",
+    "uptimeWeek": "72.40%",
+    "uptimeMonth": "92.48%",
     "uptimeYear": "99.37%",
     "time": 516,
     "timeDay": 487,
@@ -701,7 +701,7 @@
     "timeMonth": 450,
     "timeYear": 515,
     "dailyMinutesDown": {
-      "2025-10-30": 370,
+      "2025-10-30": 361,
       "2025-10-29": 331,
       "2025-10-28": 406,
       "2025-10-27": 353,
@@ -710,7 +710,7 @@
       "2025-10-24": 347,
       "2025-10-23": 311,
       "2025-10-22": 287,
-      "2025-10-21": 79
+      "2025-10-21": 95
     }
   },
   {
@@ -730,7 +730,7 @@
     "timeMonth": 0,
     "timeYear": 521,
     "dailyMinutesDown": {
-      "2025-10-30": 958,
+      "2025-10-30": 974,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
       "2025-10-27": 1440,
@@ -1114,7 +1114,7 @@
     "timeMonth": 243,
     "timeYear": 365,
     "dailyMinutesDown": {
-      "2025-10-30": 959,
+      "2025-10-30": 974,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
       "2025-10-27": 1440,
@@ -1306,17 +1306,17 @@
     "slug": "redirected-by-gpn",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "64.52%",
-    "uptimeWeek": "68.98%",
-    "uptimeMonth": "92.14%",
-    "uptimeYear": "99.35%",
+    "uptimeDay": "66.25%",
+    "uptimeWeek": "69.22%",
+    "uptimeMonth": "92.10%",
+    "uptimeYear": "99.34%",
     "time": 602,
     "timeDay": 536,
     "timeWeek": 534,
     "timeMonth": 536,
     "timeYear": 602,
     "dailyMinutesDown": {
-      "2025-10-30": 388,
+      "2025-10-30": 378,
       "2025-10-29": 331,
       "2025-10-28": 422,
       "2025-10-27": 377,
@@ -1324,7 +1324,7 @@
       "2025-10-25": 610,
       "2025-10-24": 372,
       "2025-10-23": 363,
-      "2025-10-22": 150
+      "2025-10-22": 180
     }
   },
   {
@@ -1344,7 +1344,7 @@
     "timeMonth": 458,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2025-10-30": 959,
+      "2025-10-30": 975,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
       "2025-10-27": 1440,
