@@ -39,18 +39,19 @@
     "icon": "https://api.gfx-pro.net/img/icons/gpn.ico",
     "slug": "gfx-productions-api",
     "status": "down",
-    "uptime": "84.84%",
+    "uptime": "84.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "56.38%",
+    "uptimeYear": "56.35%",
     "time": 498,
     "timeDay": 311,
     "timeWeek": 345,
-    "timeMonth": 359,
+    "timeMonth": 358,
     "timeYear": 494,
     "dailyMinutesDown": {
-      "2025-12-14": 1355,
+      "2025-12-15": 69,
+      "2025-12-14": 1440,
       "2025-12-13": 1440,
       "2025-12-12": 1440,
       "2025-12-11": 1440,
@@ -241,7 +242,7 @@
     "time": 2051,
     "timeDay": 1919,
     "timeWeek": 1868,
-    "timeMonth": 2015,
+    "timeMonth": 2017,
     "timeYear": 2066,
     "dailyMinutesDown": {
       "2025-12-14": 16,
@@ -272,7 +273,7 @@
     "uptimeYear": "99.13%",
     "time": 628,
     "timeDay": 508,
-    "timeWeek": 615,
+    "timeWeek": 618,
     "timeMonth": 642,
     "timeYear": 631,
     "dailyMinutesDown": {
@@ -312,7 +313,7 @@
     "uptimeYear": "99.73%",
     "time": 1216,
     "timeDay": 1575,
-    "timeWeek": 1535,
+    "timeWeek": 1539,
     "timeMonth": 1527,
     "timeYear": 1223,
     "dailyMinutesDown": {
@@ -351,7 +352,7 @@
     "icon": "https://api.gfx-pro.net/img/icons/mk.ico",
     "slug": "media-killer",
     "status": "down",
-    "uptime": "56.46%",
+    "uptime": "56.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -362,7 +363,8 @@
     "timeMonth": 0,
     "timeYear": 446,
     "dailyMinutesDown": {
-      "2025-12-14": 1356,
+      "2025-12-15": 70,
+      "2025-12-14": 1440,
       "2025-12-13": 1440,
       "2025-12-12": 1440,
       "2025-12-11": 1440,
@@ -725,8 +727,7 @@
       "2024-12-19": 1440,
       "2024-12-18": 1440,
       "2024-12-17": 1440,
-      "2024-12-16": 1440,
-      "2024-12-15": 1440
+      "2024-12-16": 1440
     }
   },
   {
@@ -742,7 +743,7 @@
     "uptimeYear": "99.38%",
     "time": 515,
     "timeDay": 444,
-    "timeWeek": 507,
+    "timeWeek": 505,
     "timeMonth": 508,
     "timeYear": 514,
     "dailyMinutesDown": {
@@ -769,7 +770,7 @@
     "icon": "https://api.gfx-pro.net/img/icons/playmusic.ico",
     "slug": "play-music",
     "status": "down",
-    "uptime": "55.67%",
+    "uptime": "55.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -778,9 +779,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 525,
+    "timeYear": 526,
     "dailyMinutesDown": {
-      "2025-12-14": 1357,
+      "2025-12-15": 71,
+      "2025-12-14": 1440,
       "2025-12-13": 1440,
       "2025-12-12": 1440,
       "2025-12-11": 1440,
@@ -1143,8 +1145,7 @@
       "2024-12-19": 1440,
       "2024-12-18": 1440,
       "2024-12-17": 1440,
-      "2024-12-16": 1440,
-      "2024-12-15": 1440
+      "2024-12-16": 1440
     }
   },
   {
@@ -1153,18 +1154,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.gfx-pro.net.ico",
     "slug": "pokemon-go-shiny-hunt",
     "status": "down",
-    "uptime": "84.83%",
+    "uptime": "84.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "56.36%",
+    "uptimeYear": "56.33%",
     "time": 358,
     "timeDay": 249,
     "timeWeek": 278,
     "timeMonth": 285,
     "timeYear": 361,
     "dailyMinutesDown": {
-      "2025-12-14": 1357,
+      "2025-12-15": 71,
+      "2025-12-14": 1440,
       "2025-12-13": 1440,
       "2025-12-12": 1440,
       "2025-12-11": 1440,
@@ -1357,8 +1359,8 @@
     "uptimeYear": "99.72%",
     "time": 2048,
     "timeDay": 1711,
-    "timeWeek": 1953,
-    "timeMonth": 2078,
+    "timeWeek": 1955,
+    "timeMonth": 2080,
     "timeYear": 2045,
     "dailyMinutesDown": {
       "2025-12-05": 17,
@@ -1405,7 +1407,7 @@
     "time": 605,
     "timeDay": 670,
     "timeWeek": 663,
-    "timeMonth": 683,
+    "timeMonth": 682,
     "timeYear": 603,
     "dailyMinutesDown": {
       "2025-12-14": 16,
@@ -1437,11 +1439,12 @@
     "uptimeYear": "0.02%",
     "time": 258,
     "timeDay": 535,
-    "timeWeek": 501,
+    "timeWeek": 502,
     "timeMonth": 482,
-    "timeYear": 262,
+    "timeYear": 263,
     "dailyMinutesDown": {
-      "2025-12-14": 1357,
+      "2025-12-15": 72,
+      "2025-12-14": 1440,
       "2025-12-13": 1440,
       "2025-12-12": 1440,
       "2025-12-11": 1440,
@@ -1804,8 +1807,7 @@
       "2024-12-19": 1440,
       "2024-12-18": 1440,
       "2024-12-17": 1440,
-      "2024-12-16": 1440,
-      "2024-12-15": 1440
+      "2024-12-16": 1440
     }
   }
 ]
