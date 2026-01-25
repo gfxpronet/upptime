@@ -4,19 +4,19 @@
     "url": "https://gfx-pro.net",
     "icon": "https://api.gfx-pro.net/img/icons/gpn.ico",
     "slug": "gfx-productions",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "96.96%",
-    "uptimeWeek": "89.20%",
+    "uptimeDay": "96.90%",
+    "uptimeWeek": "89.19%",
     "uptimeMonth": "92.61%",
     "uptimeYear": "99.38%",
     "time": 631,
-    "timeDay": 839,
-    "timeWeek": 903,
+    "timeDay": 816,
+    "timeWeek": 899,
     "timeMonth": 865,
     "timeYear": 629,
     "dailyMinutesDown": {
-      "2026-01-25": 44,
+      "2026-01-25": 45,
       "2026-01-24": 170,
       "2026-01-23": 134,
       "2026-01-22": 275,
@@ -38,8 +38,7 @@
       "2026-01-06": 64,
       "2026-01-05": 102,
       "2026-01-04": 18,
-      "2025-12-27": 70,
-      "2025-12-21": 16
+      "2025-12-27": 70
     }
   },
   {
@@ -59,7 +58,7 @@
     "timeMonth": 433,
     "timeYear": 479,
     "dailyMinutesDown": {
-      "2026-01-25": 1413,
+      "2026-01-25": 1433,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
@@ -283,9 +282,9 @@
     "url": "http://gfxpronet.byethost3.com",
     "icon": "https://api.gfx-pro.net/img/icons/gpn.ico",
     "slug": "gfx-productions-cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "97.03%",
+    "uptimeDay": "96.96%",
     "uptimeWeek": "89.32%",
     "uptimeMonth": "92.86%",
     "uptimeYear": "99.40%",
@@ -295,7 +294,7 @@
     "timeMonth": 2095,
     "timeYear": 2089,
     "dailyMinutesDown": {
-      "2026-01-25": 43,
+      "2026-01-25": 44,
       "2026-01-24": 167,
       "2026-01-23": 132,
       "2026-01-22": 275,
@@ -318,8 +317,7 @@
       "2026-01-05": 101,
       "2026-01-04": 17,
       "2025-12-27": 22,
-      "2025-12-18": 30,
-      "2025-12-14": 16
+      "2025-12-18": 30
     }
   },
   {
@@ -427,7 +425,7 @@
     "timeMonth": 0,
     "timeYear": 449,
     "dailyMinutesDown": {
-      "2026-01-25": 1414,
+      "2026-01-25": 1434,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
@@ -799,19 +797,19 @@
     "url": "https://mindfulplanner.nl",
     "icon": "https://mindfulplanner.nl/img/fav.ico",
     "slug": "mindful-planner",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "97.03%",
-    "uptimeWeek": "90.60%",
+    "uptimeDay": "96.90%",
+    "uptimeWeek": "90.59%",
     "uptimeMonth": "93.19%",
-    "uptimeYear": "99.40%",
+    "uptimeYear": "99.41%",
     "time": 525,
-    "timeDay": 578,
-    "timeWeek": 746,
-    "timeMonth": 639,
+    "timeDay": 572,
+    "timeWeek": 744,
+    "timeMonth": 638,
     "timeYear": 523,
     "dailyMinutesDown": {
-      "2026-01-25": 42,
+      "2026-01-25": 44,
       "2026-01-24": 167,
       "2026-01-23": 132,
       "2026-01-22": 145,
@@ -836,8 +834,7 @@
       "2025-12-27": 22,
       "2025-12-18": 96,
       "2025-12-14": 16,
-      "2025-12-09": 23,
-      "2025-12-08": 21
+      "2025-12-09": 23
     }
   },
   {
@@ -857,7 +854,7 @@
     "timeMonth": 0,
     "timeYear": 520,
     "dailyMinutesDown": {
-      "2026-01-25": 1414,
+      "2026-01-25": 1435,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
@@ -1234,14 +1231,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "44.84%",
+    "uptimeYear": "44.83%",
     "time": 357,
     "timeDay": 283,
     "timeWeek": 265,
     "timeMonth": 278,
     "timeYear": 361,
     "dailyMinutesDown": {
-      "2026-01-25": 1414,
+      "2026-01-25": 1435,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
@@ -1515,19 +1512,19 @@
     "url": "https://gfxp.ro",
     "icon": "https://api.gfx-pro.net/img/logos/redirected.png",
     "slug": "redirected-by-gpn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "97.03%",
-    "uptimeWeek": "89.32%",
-    "uptimeMonth": "92.73%",
+    "uptimeDay": "96.83%",
+    "uptimeWeek": "89.29%",
+    "uptimeMonth": "92.72%",
     "uptimeYear": "99.39%",
     "time": 612,
-    "timeDay": 613,
-    "timeWeek": 596,
+    "timeDay": 603,
+    "timeWeek": 595,
     "timeMonth": 624,
     "timeYear": 610,
     "dailyMinutesDown": {
-      "2026-01-25": 43,
+      "2026-01-25": 46,
       "2026-01-24": 167,
       "2026-01-23": 132,
       "2026-01-22": 275,
@@ -1549,8 +1546,7 @@
       "2026-01-06": 63,
       "2026-01-05": 100,
       "2026-01-04": 17,
-      "2025-12-27": 65,
-      "2025-12-18": 24
+      "2025-12-27": 65
     }
   },
   {
@@ -1570,7 +1566,7 @@
     "timeMonth": 926,
     "timeYear": 341,
     "dailyMinutesDown": {
-      "2026-01-25": 1415,
+      "2026-01-25": 1436,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
