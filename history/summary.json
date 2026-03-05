@@ -4,18 +4,19 @@
     "url": "https://gfx-pro.net",
     "icon": "https://api.gfx-pro.net/img/icons/gpn.ico",
     "slug": "gfx-productions",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "89.95%",
-    "uptimeWeek": "85.13%",
-    "uptimeMonth": "88.40%",
-    "uptimeYear": "99.03%",
+    "uptimeDay": "89.89%",
+    "uptimeWeek": "85.12%",
+    "uptimeMonth": "88.46%",
+    "uptimeYear": "99.04%",
     "time": 646,
-    "timeDay": 862,
-    "timeWeek": 705,
-    "timeMonth": 775,
-    "timeYear": 645,
+    "timeDay": 834,
+    "timeWeek": 702,
+    "timeMonth": 774,
+    "timeYear": 644,
     "dailyMinutesDown": {
+      "2026-03-05": 1,
       "2026-03-04": 145,
       "2026-03-03": 76,
       "2026-03-02": 364,
@@ -36,8 +37,7 @@
       "2026-02-15": 139,
       "2026-02-14": 699,
       "2026-02-13": 369,
-      "2026-02-12": 89,
-      "2026-02-11": 31
+      "2026-02-12": 89
     }
   },
   {
@@ -50,14 +50,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "34.45%",
+    "uptimeYear": "34.43%",
     "time": 476,
     "timeDay": 361,
     "timeWeek": 370,
     "timeMonth": 474,
     "timeYear": 471,
     "dailyMinutesDown": {
-      "2026-03-04": 1436,
+      "2026-03-05": 71,
+      "2026-03-04": 1440,
       "2026-03-03": 1440,
       "2026-03-02": 1440,
       "2026-03-01": 1440,
@@ -319,18 +320,19 @@
     "url": "http://gfxpronet.byethost3.com",
     "icon": "https://api.gfx-pro.net/img/icons/gpn.ico",
     "slug": "gfx-productions-cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "90.08%",
-    "uptimeWeek": "85.43%",
-    "uptimeMonth": "88.42%",
-    "uptimeYear": "99.03%",
+    "uptimeDay": "89.99%",
+    "uptimeWeek": "85.42%",
+    "uptimeMonth": "88.53%",
+    "uptimeYear": "99.04%",
     "time": 2083,
     "timeDay": 1588,
     "timeWeek": 1942,
     "timeMonth": 1927,
     "timeYear": 2069,
     "dailyMinutesDown": {
+      "2026-03-05": 1,
       "2026-03-04": 142,
       "2026-03-03": 76,
       "2026-03-02": 361,
@@ -352,7 +354,7 @@
       "2026-02-14": 694,
       "2026-02-13": 365,
       "2026-02-12": 89,
-      "2026-02-11": 146
+      "2026-02-11": 99
     }
   },
   {
@@ -456,7 +458,8 @@
     "timeMonth": 0,
     "timeYear": 456,
     "dailyMinutesDown": {
-      "2026-03-04": 1437,
+      "2026-03-05": 72,
+      "2026-03-04": 1440,
       "2026-03-03": 1440,
       "2026-03-02": 1440,
       "2026-03-01": 1440,
@@ -819,8 +822,7 @@
       "2025-03-09": 1440,
       "2025-03-08": 1440,
       "2025-03-07": 1440,
-      "2025-03-06": 1440,
-      "2025-03-05": 1440
+      "2025-03-06": 1440
     }
   },
   {
@@ -828,18 +830,19 @@
     "url": "https://mindfulplanner.nl",
     "icon": "https://mindfulplanner.nl/img/fav.ico",
     "slug": "mindful-planner",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "90.07%",
-    "uptimeWeek": "85.43%",
-    "uptimeMonth": "88.42%",
-    "uptimeYear": "99.03%",
+    "uptimeDay": "89.92%",
+    "uptimeWeek": "85.40%",
+    "uptimeMonth": "88.52%",
+    "uptimeYear": "99.04%",
     "time": 530,
-    "timeDay": 517,
-    "timeWeek": 518,
+    "timeDay": 508,
+    "timeWeek": 517,
     "timeMonth": 552,
     "timeYear": 529,
     "dailyMinutesDown": {
+      "2026-03-05": 2,
       "2026-03-04": 142,
       "2026-03-03": 76,
       "2026-03-02": 361,
@@ -861,7 +864,7 @@
       "2026-02-14": 695,
       "2026-02-13": 366,
       "2026-02-12": 89,
-      "2026-02-11": 147
+      "2026-02-11": 100
     }
   },
   {
@@ -879,9 +882,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 519,
+    "timeYear": 518,
     "dailyMinutesDown": {
-      "2026-03-04": 1437,
+      "2026-03-05": 73,
+      "2026-03-04": 1440,
       "2026-03-03": 1440,
       "2026-03-02": 1440,
       "2026-03-01": 1440,
@@ -1244,8 +1248,7 @@
       "2025-03-09": 1440,
       "2025-03-08": 1440,
       "2025-03-07": 1440,
-      "2025-03-06": 1440,
-      "2025-03-05": 1440
+      "2025-03-06": 1440
     }
   },
   {
@@ -1254,18 +1257,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.gfx-pro.net.ico",
     "slug": "pokemon-go-shiny-hunt",
     "status": "down",
-    "uptime": "78.83%",
+    "uptime": "78.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "34.42%",
+    "uptimeYear": "34.41%",
     "time": 360,
     "timeDay": 284,
     "timeWeek": 262,
     "timeMonth": 342,
     "timeYear": 363,
     "dailyMinutesDown": {
-      "2026-03-04": 1437,
+      "2026-03-05": 73,
+      "2026-03-04": 1440,
       "2026-03-03": 1440,
       "2026-03-02": 1440,
       "2026-03-01": 1440,
@@ -1573,18 +1577,19 @@
     "url": "https://gfxp.ro",
     "icon": "https://api.gfx-pro.net/img/logos/redirected.png",
     "slug": "redirected-by-gpn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "90.07%",
-    "uptimeWeek": "85.42%",
-    "uptimeMonth": "88.42%",
-    "uptimeYear": "99.03%",
+    "uptimeDay": "89.84%",
+    "uptimeWeek": "85.39%",
+    "uptimeMonth": "88.52%",
+    "uptimeYear": "99.04%",
     "time": 625,
-    "timeDay": 645,
-    "timeWeek": 583,
+    "timeDay": 626,
+    "timeWeek": 581,
     "timeMonth": 686,
     "timeYear": 624,
     "dailyMinutesDown": {
+      "2026-03-05": 3,
       "2026-03-04": 143,
       "2026-03-03": 76,
       "2026-03-02": 361,
@@ -1606,7 +1611,7 @@
       "2026-02-14": 696,
       "2026-02-13": 368,
       "2026-02-12": 89,
-      "2026-02-11": 147
+      "2026-02-11": 100
     }
   },
   {
@@ -1620,13 +1625,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.09%",
-    "time": 411,
+    "time": 420,
     "timeDay": 812,
     "timeWeek": 807,
     "timeMonth": 922,
     "timeYear": 429,
     "dailyMinutesDown": {
-      "2026-03-04": 1438,
+      "2026-03-05": 74,
+      "2026-03-04": 1440,
       "2026-03-03": 1440,
       "2026-03-02": 1440,
       "2026-03-01": 1440,
@@ -1989,8 +1995,7 @@
       "2025-03-09": 1440,
       "2025-03-08": 1440,
       "2025-03-07": 1440,
-      "2025-03-06": 1440,
-      "2025-03-05": 1440
+      "2025-03-06": 1440
     }
   }
 ]
