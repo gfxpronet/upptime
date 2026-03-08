@@ -6,14 +6,14 @@
     "slug": "gfx-productions",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "87.08%",
+    "uptimeDay": "87.75%",
     "uptimeWeek": "87.44%",
     "uptimeMonth": "89.81%",
     "uptimeYear": "99.15%",
     "time": 648,
-    "timeDay": 877,
-    "timeWeek": 741,
-    "timeMonth": 775,
+    "timeDay": 907,
+    "timeWeek": 745,
+    "timeMonth": 776,
     "timeYear": 645,
     "dailyMinutesDown": {
       "2026-03-07": 176,
@@ -46,18 +46,19 @@
     "icon": "https://api.gfx-pro.net/img/icons/gpn.ico",
     "slug": "gfx-productions-api",
     "status": "down",
-    "uptime": "78.63%",
+    "uptime": "78.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "33.63%",
+    "uptimeYear": "33.61%",
     "time": 475,
-    "timeDay": 364,
+    "timeDay": 368,
     "timeWeek": 366,
     "timeMonth": 474,
     "timeYear": 468,
     "dailyMinutesDown": {
-      "2026-03-07": 1416,
+      "2026-03-08": 84,
+      "2026-03-07": 1440,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
       "2026-03-04": 1440,
@@ -324,13 +325,13 @@
     "slug": "gfx-productions-cdn",
     "status": "up",
     "uptime": "99.51%",
-    "uptimeDay": "91.86%",
+    "uptimeDay": "92.48%",
     "uptimeWeek": "88.35%",
     "uptimeMonth": "90.11%",
     "uptimeYear": "99.18%",
     "time": 2076,
-    "timeDay": 1558,
-    "timeWeek": 1727,
+    "timeDay": 1516,
+    "timeWeek": 1726,
     "timeMonth": 1889,
     "timeYear": 2063,
     "dailyMinutesDown": {
@@ -370,7 +371,7 @@
     "uptimeMonth": "99.57%",
     "uptimeYear": "99.07%",
     "time": 644,
-    "timeDay": 609,
+    "timeDay": 631,
     "timeWeek": 585,
     "timeMonth": 635,
     "timeYear": 641,
@@ -398,8 +399,7 @@
       "2025-04-11": 1440,
       "2025-04-10": 166,
       "2025-03-21": 738,
-      "2025-03-09": 53,
-      "2025-03-08": 9
+      "2025-03-09": 53
     }
   },
   {
@@ -414,7 +414,7 @@
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.76%",
     "time": 1388,
-    "timeDay": 1701,
+    "timeDay": 1720,
     "timeWeek": 1682,
     "timeMonth": 1884,
     "timeYear": 1400,
@@ -440,8 +440,7 @@
       "2025-05-02": 54,
       "2025-04-13": 131,
       "2025-03-21": 84,
-      "2025-03-09": 53,
-      "2025-03-08": 9
+      "2025-03-09": 53
     }
   },
   {
@@ -461,7 +460,8 @@
     "timeMonth": 0,
     "timeYear": 451,
     "dailyMinutesDown": {
-      "2026-03-07": 1417,
+      "2026-03-08": 85,
+      "2026-03-07": 1440,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
       "2026-03-04": 1440,
@@ -824,8 +824,7 @@
       "2025-03-12": 1440,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
-      "2025-03-09": 1440,
-      "2025-03-08": 1440
+      "2025-03-09": 1440
     }
   },
   {
@@ -835,13 +834,13 @@
     "slug": "mindful-planner",
     "status": "up",
     "uptime": "99.51%",
-    "uptimeDay": "91.93%",
+    "uptimeDay": "92.47%",
     "uptimeWeek": "88.35%",
     "uptimeMonth": "90.11%",
     "uptimeYear": "99.18%",
     "time": 531,
-    "timeDay": 621,
-    "timeWeek": 497,
+    "timeDay": 638,
+    "timeWeek": 498,
     "timeMonth": 541,
     "timeYear": 529,
     "dailyMinutesDown": {
@@ -875,7 +874,7 @@
     "icon": "https://api.gfx-pro.net/img/icons/playmusic.ico",
     "slug": "play-music",
     "status": "down",
-    "uptime": "51.60%",
+    "uptime": "51.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -884,9 +883,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 512,
+    "timeYear": 510,
     "dailyMinutesDown": {
-      "2026-03-07": 1418,
+      "2026-03-08": 85,
+      "2026-03-07": 1440,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
       "2026-03-04": 1440,
@@ -1249,8 +1249,7 @@
       "2025-03-12": 1440,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
-      "2025-03-09": 1440,
-      "2025-03-08": 1440
+      "2025-03-09": 1440
     }
   },
   {
@@ -1259,18 +1258,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.gfx-pro.net.ico",
     "slug": "pokemon-go-shiny-hunt",
     "status": "down",
-    "uptime": "78.62%",
+    "uptime": "78.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "33.60%",
+    "uptimeYear": "33.58%",
     "time": 360,
-    "timeDay": 303,
+    "timeDay": 309,
     "timeWeek": 281,
     "timeMonth": 348,
     "timeYear": 363,
     "dailyMinutesDown": {
-      "2026-03-07": 1418,
+      "2026-03-08": 85,
+      "2026-03-07": 1440,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
       "2026-03-04": 1440,
@@ -1545,7 +1545,7 @@
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.75%",
     "time": 2137,
-    "timeDay": 2481,
+    "timeDay": 2522,
     "timeWeek": 2499,
     "timeMonth": 2687,
     "timeYear": 2125,
@@ -1573,8 +1573,7 @@
       "2025-05-02": 22,
       "2025-04-13": 131,
       "2025-03-21": 83,
-      "2025-03-09": 53,
-      "2025-03-08": 9
+      "2025-03-09": 53
     }
   },
   {
@@ -1584,13 +1583,13 @@
     "slug": "redirected-by-gpn",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "90.58%",
+    "uptimeDay": "91.03%",
     "uptimeWeek": "88.02%",
     "uptimeMonth": "90.03%",
     "uptimeYear": "99.17%",
     "time": 625,
-    "timeDay": 687,
-    "timeWeek": 614,
+    "timeDay": 689,
+    "timeWeek": 615,
     "timeMonth": 681,
     "timeYear": 624,
     "dailyMinutesDown": {
@@ -1624,18 +1623,19 @@
     "icon": "https://colorslurp.com/images/app-icon.png",
     "slug": "rgb-24-bgr-15-converter",
     "status": "down",
-    "uptime": "53.52%",
+    "uptime": "53.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.09%",
-    "time": 417,
-    "timeDay": 1153,
+    "time": 426,
+    "timeDay": 1217,
     "timeWeek": 872,
     "timeMonth": 928,
-    "timeYear": 435,
+    "timeYear": 436,
     "dailyMinutesDown": {
-      "2026-03-07": 1419,
+      "2026-03-08": 86,
+      "2026-03-07": 1440,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
       "2026-03-04": 1440,
@@ -1998,8 +1998,7 @@
       "2025-03-12": 1440,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
-      "2025-03-09": 1440,
-      "2025-03-08": 1440
+      "2025-03-09": 1440
     }
   }
 ]
