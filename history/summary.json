@@ -12,8 +12,8 @@
     "uptimeYear": "96.15%",
     "time": 682,
     "timeDay": 571,
-    "timeWeek": 615,
-    "timeMonth": 627,
+    "timeWeek": 612,
+    "timeMonth": 628,
     "timeYear": 689,
     "dailyMinutesDown": {
       "2026-02-26": 38,
@@ -74,11 +74,11 @@
     "uptimeYear": "0.00%",
     "time": 351,
     "timeDay": 279,
-    "timeWeek": 318,
+    "timeWeek": 314,
     "timeMonth": 329,
     "timeYear": 350,
     "dailyMinutesDown": {
-      "2026-10-05": 73,
+      "2026-10-05": 200,
       "2026-10-04": 1440,
       "2026-10-03": 1440,
       "2026-10-02": 1440,
@@ -451,15 +451,15 @@
     "icon": "https://api.gfx-pro.net/img/icons/gpn.ico",
     "slug": "gfx-productions-cdn",
     "status": "down",
-    "uptime": "99.55%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "96.01%",
-    "uptimeMonth": "98.87%",
-    "uptimeYear": "98.98%",
+    "uptime": "99.54%",
+    "uptimeDay": "91.04%",
+    "uptimeWeek": "94.75%",
+    "uptimeMonth": "98.58%",
+    "uptimeYear": "98.96%",
     "time": 1822,
     "timeDay": 1596,
-    "timeWeek": 1468,
-    "timeMonth": 1783,
+    "timeWeek": 1464,
+    "timeMonth": 1787,
     "timeYear": 1822,
     "dailyMinutesDown": {
       "2026-02-28": 144,
@@ -492,7 +492,7 @@
       "2026-09-06": 95,
       "2026-09-30": 332,
       "2026-10-03": 68,
-      "2026-10-05": 2
+      "2026-10-05": 129
     }
   },
   {
@@ -508,8 +508,8 @@
     "uptimeYear": "99.65%",
     "time": 743,
     "timeDay": 775,
-    "timeWeek": 853,
-    "timeMonth": 950,
+    "timeWeek": 845,
+    "timeMonth": 951,
     "timeYear": 745,
     "dailyMinutesDown": {
       "2025-10-16": 43,
@@ -538,15 +538,15 @@
     "icon": "https://api.gfx-pro.net/img/icons/gpn.ico",
     "slug": "gfx-productions-nas",
     "status": "down",
-    "uptime": "99.61%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.69%",
+    "uptime": "99.60%",
+    "uptimeDay": "91.02%",
+    "uptimeWeek": "98.72%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.67%",
     "time": 1870,
     "timeDay": 1966,
-    "timeWeek": 2051,
-    "timeMonth": 2351,
+    "timeWeek": 2049,
+    "timeMonth": 2353,
     "timeYear": 1886,
     "dailyMinutesDown": {
       "2025-10-20": 27,
@@ -563,7 +563,7 @@
       "2026-07-06": 201,
       "2026-07-11": 761,
       "2026-08-01": 54,
-      "2026-10-05": 3
+      "2026-10-05": 129
     }
   },
   {
@@ -573,7 +573,7 @@
     "slug": "media-killer",
     "status": "down",
     "uptime": "44.47%",
-    "uptimeDay": "99.83%",
+    "uptimeDay": "91.03%",
     "uptimeWeek": "64.68%",
     "uptimeMonth": "16.26%",
     "uptimeYear": "1.24%",
@@ -944,7 +944,7 @@
       "2025-10-07": 1440,
       "2025-10-06": 1440,
       "2026-10-03": 68,
-      "2026-10-05": 2
+      "2026-10-05": 129
     }
   },
   {
@@ -960,7 +960,7 @@
     "uptimeYear": "99.01%",
     "time": 526,
     "timeDay": 485,
-    "timeWeek": 534,
+    "timeWeek": 530,
     "timeMonth": 540,
     "timeYear": 528,
     "dailyMinutesDown": {
@@ -1007,11 +1007,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "34.12%",
+    "uptimeYear": "34.14%",
     "time": 949,
     "timeDay": 1013,
-    "timeWeek": 1093,
-    "timeMonth": 1096,
+    "timeWeek": 1083,
+    "timeMonth": 1097,
     "timeYear": 949,
     "dailyMinutesDown": {
       "2026-05-22": 700,
@@ -1270,18 +1270,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.gfx-pro.net.ico",
     "slug": "pokemon-go-shiny-hunt",
     "status": "down",
-    "uptime": "66.28%",
+    "uptime": "66.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 275,
     "timeDay": 241,
-    "timeWeek": 284,
+    "timeWeek": 278,
     "timeMonth": 296,
     "timeYear": 276,
     "dailyMinutesDown": {
-      "2026-10-05": 75,
+      "2026-10-05": 202,
       "2026-10-04": 1440,
       "2026-10-03": 1440,
       "2026-10-02": 1440,
@@ -1654,15 +1654,15 @@
     "icon": "https://api.gfx-pro.net/img/icons/pgo.ico",
     "slug": "pokemon-go-shiny-rates",
     "status": "down",
-    "uptime": "88.55%",
-    "uptimeDay": "99.80%",
+    "uptime": "88.54%",
+    "uptimeDay": "91.00%",
     "uptimeWeek": "21.63%",
     "uptimeMonth": "6.36%",
-    "uptimeYear": "61.92%",
+    "uptimeYear": "61.90%",
     "time": 2157,
     "timeDay": 1546,
     "timeWeek": 1512,
-    "timeMonth": 1846,
+    "timeMonth": 1850,
     "timeYear": 2163,
     "dailyMinutesDown": {
       "2025-10-16": 43,
@@ -1818,7 +1818,7 @@
       "2026-10-03": 1104,
       "2026-10-02": 1440,
       "2026-10-01": 1440,
-      "2026-10-05": 3
+      "2026-10-05": 130
     }
   },
   {
@@ -1834,8 +1834,8 @@
     "uptimeYear": "96.19%",
     "time": 606,
     "timeDay": 377,
-    "timeWeek": 444,
-    "timeMonth": 449,
+    "timeWeek": 439,
+    "timeMonth": 450,
     "timeYear": 608,
     "dailyMinutesDown": {
       "2026-02-25": 22,
@@ -1886,15 +1886,15 @@
     "icon": "https://colorslurp.com/images/app-icon.png",
     "slug": "rgb-24-bgr-15-converter",
     "status": "down",
-    "uptime": "45.25%",
-    "uptimeDay": "99.78%",
+    "uptime": "45.24%",
+    "uptimeDay": "90.98%",
     "uptimeWeek": "21.64%",
     "uptimeMonth": "6.36%",
     "uptimeYear": "0.50%",
     "time": 998,
     "timeDay": 1600,
-    "timeWeek": 1478,
-    "timeMonth": 1819,
+    "timeWeek": 1476,
+    "timeMonth": 1823,
     "timeYear": 1012,
     "dailyMinutesDown": {
       "2025-11-13": 1374,
@@ -2260,7 +2260,7 @@
       "2026-10-03": 1104,
       "2026-10-02": 1440,
       "2026-10-01": 1440,
-      "2026-10-05": 3
+      "2026-10-05": 130
     }
   }
 ]
