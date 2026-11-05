@@ -3,53 +3,42 @@ repo: upptime
 user-agent: gfxpronet
 
 sites:
-  - name: GFX Productions™
+  - name: GPN™ Website
     url: https://gfx-pro.net
     icon: https://api.gfx-pro.net/img/icons/gpn.ico
 
-  - name: GFX Productions™ API
-    url: https://api.gfx-pro.net
+  - name: GPN™ Accounts
+    url: https://accounts.gfx-pro.net
     icon: https://api.gfx-pro.net/img/icons/gpn.ico
 
-  - name: GFX Productions™ CDN
-    url: http://gfxpronet.byethost3.com
-    icon: https://api.gfx-pro.net/img/icons/gpn.ico
-
-  - name: GFX Productions™ IDE
-    url: https://code.gfx-pro.net
+  - name: GPN™ Mailing
+    url: https://mailing.gfx-pro.net
     icon: https://api.gfx-pro.net/img/icons/gpn.ico
 
   - name: GFX Productions™ NAS
     url: https://nas.gfx-pro.net
     icon: https://api.gfx-pro.net/img/icons/gpn.ico
 
-  - name: MediaKiller™
-    url: https://mk.gfx-pro.net
-    icon: https://api.gfx-pro.net/img/icons/mk.ico
+  - name: GFX Productions™ IDE
+    url: https://code.gfx-pro.net
+    icon: https://api.gfx-pro.net/img/icons/gpn.ico
+
 
   - name: Mindful Planner
     url: https://mindfulplanner.nl
     icon: https://mindfulplanner.nl/img/fav.ico
 
-  - name: PlayMusic™
-    url: https://music.gfxp.ro
-    icon: https://api.gfx-pro.net/img/icons/playmusic.ico
-
-  - name: Pokémon GO Shiny Hunt
-    url: https://api.gfx-pro.net/assets/shinyHunt/v2/
-    icon: 
-
-  - name: Pokémon GO Shiny Rates
-    url: https://nas.gfx-pro.net/shiny/rates
-    icon: https://api.gfx-pro.net/img/icons/pgo.ico
-
   - name: Redirected by GPN™
     url: https://gfxp.ro
     icon: https://api.gfx-pro.net/img/logos/redirected.png
 
-  - name: RGB24/BGR15 Converter
-    url: https://nas.gfx-pro.net/BGR15
-    icon: https://colorslurp.com/images/app-icon.png
+  - name: StreamPulse by GPN™
+    url: https://streampulse.gfx-pro.net
+    icon: https://api.gfx-pro.net/img/icons/gpn.ico
+
+  - name: Shiny Rates
+    url: https://shiny.gfxp.ro
+    icon: https://api.gfx-pro.net/img/icons/pgo.ico
 
 status-website:
   #cname: status.gfx-pro.net
@@ -58,12 +47,12 @@ status-website:
   favicon: https://api.gfx-pro.net/img/icons/gpn.ico
   logoUrl: https://api.gfx-pro.net/img/icons/gpn.ico
   name: GPN™ StatusPage
-  introTitle: ""
+  introTitle: "This is our self-hosted status page, providing real-time updates on the availability of our services and infrastructure, including third-party providers, our edge network, and the dashboards and APIs we operate. \r\n If you experience an issue that is not listed here, please contact us through our Help Center."
   introMessage: 
   customHeadHtml: ""
   navbar:
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    # - title: GitHub
+    #   href: https://github.com/$OWNER/$REPO
 
 i18n:
   footer: "⠀"
