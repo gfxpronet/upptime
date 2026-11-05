@@ -66,8 +66,8 @@
     "uptimeYear": "99.22%",
     "time": 1897,
     "timeDay": 2578,
-    "timeWeek": 1813,
-    "timeMonth": 1753,
+    "timeWeek": 1822,
+    "timeMonth": 1755,
     "timeYear": 1913,
     "dailyMinutesDown": {
       "2025-12-03": 96,
@@ -94,14 +94,14 @@
     "url": "https://code.gfx-pro.net",
     "icon": "https://api.gfx-pro.net/img/icons/gpn.ico",
     "slug": "gfx-productions-ide",
-    "status": "down",
-    "uptime": "99.16%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.58%",
-    "uptimeYear": "99.21%",
+    "status": "up",
+    "uptime": "99.14%",
+    "uptimeDay": "85.27%",
+    "uptimeWeek": "97.90%",
+    "uptimeMonth": "94.09%",
+    "uptimeYear": "99.17%",
     "time": 753,
-    "timeDay": 1192,
+    "timeDay": 1133,
     "timeWeek": 1153,
     "timeMonth": 955,
     "timeYear": 761,
@@ -125,7 +125,7 @@
       "2026-10-08": 720,
       "2026-10-23": 1077,
       "2026-10-22": 579,
-      "2026-11-05": 1
+      "2026-11-05": 212
     }
   },
   {
@@ -141,7 +141,7 @@
     "uptimeYear": "99.01%",
     "time": 560,
     "timeDay": 544,
-    "timeWeek": 537,
+    "timeWeek": 539,
     "timeMonth": 561,
     "timeYear": 566,
     "dailyMinutesDown": {
@@ -191,8 +191,8 @@
     "uptimeYear": "96.11%",
     "time": 637,
     "timeDay": 891,
-    "timeWeek": 682,
-    "timeMonth": 674,
+    "timeWeek": 692,
+    "timeMonth": 675,
     "timeYear": 641,
     "dailyMinutesDown": {
       "2026-02-26": 444,
