@@ -38,7 +38,7 @@ sites:
 
   - name: Shiny Rates
     url: https://shiny.gfxp.ro
-    icon: https://api.gfx-pro.net/img/icons/pgo.ico
+    icon: https://static.wikia.nocookie.net/pokemongo/images/c/c1/AppIcon_Standard.png
 
 status-website:
   #cname: status.gfx-pro.net
@@ -47,7 +47,7 @@ status-website:
   favicon: https://api.gfx-pro.net/img/icons/gpn.ico
   logoUrl: https://api.gfx-pro.net/img/icons/gpn.ico
   name: GPN™ StatusPage
-  introTitle: "This is our self-hosted status page, providing real-time updates on the availability of our services and infrastructure, including third-party providers, our edge network, and the dashboards and APIs we operate. \r\n If you experience an issue that is not listed here, please contact us through our Help Center."
+  introTitle: ""
   introMessage: 
   customHeadHtml: ""
   navbar:
