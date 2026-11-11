@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 650,
-    "timeDay": 548,
-    "timeWeek": 650,
-    "timeMonth": 650,
-    "timeYear": 650,
+    "time": 644,
+    "timeDay": 539,
+    "timeWeek": 644,
+    "timeMonth": 644,
+    "timeYear": 644,
     "dailyMinutesDown": {}
   },
   {
@@ -58,9 +58,9 @@
     "url": "https://nas.gfx-pro.net",
     "icon": "https://api.gfx-pro.net/img/icons/gpn.ico",
     "slug": "gfx-productions-nas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.36%",
-    "uptimeDay": "45.70%",
+    "uptimeDay": "45.66%",
     "uptimeWeek": "92.24%",
     "uptimeMonth": "94.16%",
     "uptimeYear": "99.07%",
@@ -87,7 +87,7 @@
       "2026-10-08": 23,
       "2026-10-23": 1203,
       "2026-10-22": 574,
-      "2026-11-11": 782
+      "2026-11-11": 783
     }
   },
   {
@@ -95,10 +95,10 @@
     "url": "https://code.gfx-pro.net",
     "icon": "https://api.gfx-pro.net/img/icons/gpn.ico",
     "slug": "gfx-productions-ide",
-    "status": "up",
+    "status": "down",
     "uptime": "99.10%",
-    "uptimeDay": "61.46%",
-    "uptimeWeek": "92.39%",
+    "uptimeDay": "61.41%",
+    "uptimeWeek": "92.38%",
     "uptimeMonth": "94.47%",
     "uptimeYear": "99.06%",
     "time": 757,
@@ -127,7 +127,7 @@
       "2026-10-23": 1077,
       "2026-10-22": 579,
       "2026-11-05": 212,
-      "2026-11-11": 555
+      "2026-11-11": 556
     }
   },
   {
@@ -263,19 +263,19 @@
     "icon": "https://static.wikia.nocookie.net/pokemongo/images/c/c1/AppIcon_Standard.png",
     "slug": "shiny-rates",
     "status": "down",
-    "uptime": "90.48%",
-    "uptimeDay": "58.02%",
-    "uptimeWeek": "90.48%",
-    "uptimeMonth": "90.48%",
-    "uptimeYear": "90.48%",
+    "uptime": "89.42%",
+    "uptimeDay": "54.03%",
+    "uptimeWeek": "89.42%",
+    "uptimeMonth": "89.42%",
+    "uptimeYear": "89.42%",
     "time": 2824,
-    "timeDay": 1799,
+    "timeDay": 1338,
     "timeWeek": 2824,
     "timeMonth": 2824,
     "timeYear": 2824,
     "dailyMinutesDown": {
       "2026-11-10": 290,
-      "2026-11-11": 556
+      "2026-11-11": 662
     }
   }
 ]
