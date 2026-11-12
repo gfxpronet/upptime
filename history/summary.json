@@ -58,17 +58,17 @@
     "url": "https://nas.gfx-pro.net",
     "icon": "https://api.gfx-pro.net/img/icons/gpn.ico",
     "slug": "gfx-productions-nas",
-    "status": "down",
-    "uptime": "99.36%",
-    "uptimeDay": "45.66%",
-    "uptimeWeek": "92.24%",
-    "uptimeMonth": "94.16%",
-    "uptimeYear": "99.07%",
+    "status": "up",
+    "uptime": "99.34%",
+    "uptimeDay": "26.82%",
+    "uptimeWeek": "89.55%",
+    "uptimeMonth": "93.54%",
+    "uptimeYear": "99.02%",
     "time": 1899,
-    "timeDay": 675,
-    "timeWeek": 1762,
-    "timeMonth": 1743,
-    "timeYear": 1920,
+    "timeDay": 802,
+    "timeWeek": 1570,
+    "timeMonth": 1741,
+    "timeYear": 1919,
     "dailyMinutesDown": {
       "2025-12-03": 96,
       "2025-12-05": 17,
@@ -87,7 +87,8 @@
       "2026-10-08": 23,
       "2026-10-23": 1203,
       "2026-10-22": 574,
-      "2026-11-11": 783
+      "2026-11-11": 815,
+      "2026-11-12": 238
     }
   },
   {
@@ -95,15 +96,15 @@
     "url": "https://code.gfx-pro.net",
     "icon": "https://api.gfx-pro.net/img/icons/gpn.ico",
     "slug": "gfx-productions-ide",
-    "status": "down",
-    "uptime": "99.10%",
-    "uptimeDay": "61.41%",
-    "uptimeWeek": "92.38%",
-    "uptimeMonth": "94.47%",
-    "uptimeYear": "99.06%",
+    "status": "up",
+    "uptime": "99.08%",
+    "uptimeDay": "42.59%",
+    "uptimeWeek": "89.69%",
+    "uptimeMonth": "93.85%",
+    "uptimeYear": "99.01%",
     "time": 757,
-    "timeDay": 709,
-    "timeWeek": 1142,
+    "timeDay": 769,
+    "timeWeek": 1063,
     "timeMonth": 1000,
     "timeYear": 767,
     "dailyMinutesDown": {
@@ -127,7 +128,8 @@
       "2026-10-23": 1077,
       "2026-10-22": 579,
       "2026-11-05": 212,
-      "2026-11-11": 556
+      "2026-11-11": 588,
+      "2026-11-12": 239
     }
   },
   {
@@ -143,8 +145,8 @@
     "uptimeYear": "99.01%",
     "time": 564,
     "timeDay": 451,
-    "timeWeek": 519,
-    "timeMonth": 554,
+    "timeWeek": 518,
+    "timeMonth": 553,
     "timeYear": 560,
     "dailyMinutesDown": {
       "2026-02-26": 310,
@@ -193,8 +195,8 @@
     "uptimeYear": "96.11%",
     "time": 641,
     "timeDay": 759,
-    "timeWeek": 830,
-    "timeMonth": 739,
+    "timeWeek": 837,
+    "timeMonth": 740,
     "timeYear": 636,
     "dailyMinutesDown": {
       "2026-02-26": 444,
@@ -262,20 +264,21 @@
     "url": "https://shiny.gfxp.ro",
     "icon": "https://static.wikia.nocookie.net/pokemongo/images/c/c1/AppIcon_Standard.png",
     "slug": "shiny-rates",
-    "status": "down",
-    "uptime": "89.42%",
-    "uptimeDay": "54.03%",
-    "uptimeWeek": "89.42%",
-    "uptimeMonth": "89.42%",
-    "uptimeYear": "89.42%",
-    "time": 2824,
-    "timeDay": 1338,
-    "timeWeek": 2824,
-    "timeMonth": 2824,
-    "timeYear": 2824,
+    "status": "up",
+    "uptime": "86.81%",
+    "uptimeDay": "35.26%",
+    "uptimeWeek": "86.81%",
+    "uptimeMonth": "86.81%",
+    "uptimeYear": "86.81%",
+    "time": 2806,
+    "timeDay": 1697,
+    "timeWeek": 2806,
+    "timeMonth": 2806,
+    "timeYear": 2806,
     "dailyMinutesDown": {
       "2026-11-10": 290,
-      "2026-11-11": 662
+      "2026-11-11": 694,
+      "2026-11-12": 239
     }
   }
 ]
