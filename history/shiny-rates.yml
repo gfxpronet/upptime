@@ -1,7 +1,7 @@
 url: https://shiny.gfxp.ro
-status: up
-code: 200
-responseTime: 2737
-lastUpdated: 2026-11-15T10:15:43.983Z
+status: down
+code: 502
+responseTime: 440
+lastUpdated: 2026-11-15T16:41:47.594Z
 startTime: 2026-11-05T17:38:52.196Z
 generator: Upptime <https://github.com/upptime/upptime>
